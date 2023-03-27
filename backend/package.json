@@ -1,0 +1,22 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "description": "Pixels&Pages is a dynamic and engaging blogging website that focuses on two key areas: tech blog and book review. I deliver in-depth articles covering the latest developments in technology, including gadgets, social media, digital media, web design, smartphones,electrical vehicle, and artificial intelligence. We also provide honest and insightful book reviews on a wide range of genres, helping our readers discover new titles and authors. we offer high-quality blog writing that engages readers and drives traffic. Whether you are looking for the latest tech news or want to explore the world of books, Pixels&Pages has got you covered. Join our community today and stay informed about the latest trends in tech and literature.",
+  "main": "app.js",
+  "scripts": {
+   
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    
+  ],
+  "author": "Parag Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
+}
